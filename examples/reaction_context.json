@@ -1,0 +1,21 @@
+{
+  "experiment_id": "demo_benzoic_acid_crystallization",
+  "participants": [
+    {"name": "benzoic acid", "role": "solute/reactant", "notes": "dissolved before cooling"},
+    {"name": "water", "role": "solvent"}
+  ],
+  "conditions": {
+    "temperature_c": 25.0,
+    "pressure_kpa": 101.3,
+    "stirring_rpm": 0,
+    "atmosphere": "air",
+    "details": "solution is cooling from a previously heated state"
+  },
+  "procedure": {
+    "experiment_type": "crystallization",
+    "current_step": "cooling and crystallization monitoring",
+    "objective": "detect onset and growth of visible crystals",
+    "notes": "camera-only visual monitoring"
+  },
+  "metadata": {"causal_context_only": true}
+}

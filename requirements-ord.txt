@@ -1,0 +1,2 @@
+-r requirements.txt
+ord-schema[huggingface]>=0.6

@@ -1,0 +1,48 @@
+benchmark,metric,value
+HeinSight4 visual,mAP50-95,0.9304409956188564
+HeinSight4 visual,mAP50,0.9650713692448172
+CrystalCV very_short_0p5pct,LastValue macro-exp NMAE,0.030097647864773307
+CrystalCV very_short_0p5pct,TrainMean macro-exp NMAE,0.22167788766860339
+CrystalCV very_short_0p5pct,LinearTrend macro-exp NMAE,0.036447181147376224
+CrystalCV very_short_0p5pct,RidgeResidual macro-exp NMAE,0.03172906934055284
+CrystalCV very_short_0p5pct,MLPResidual macro-exp NMAE,0.027834839006447558
+CrystalCV very_short_0p5pct,GRUResidual macro-exp NMAE,0.027835576859141786
+CrystalCV very_short_0p5pct,TCPTResidual macro-exp NMAE,0.027841422267298736
+CrystalCV very_short_0p5pct,TCPT skill vs LastValue,0.07496351899695419
+CrystalCV very_short_0p5pct,TCPT experiment win-rate vs LastValue,1.0
+CrystalCV short_2pct,LastValue macro-exp NMAE,0.054541835330641525
+CrystalCV short_2pct,TrainMean macro-exp NMAE,0.22125871940385594
+CrystalCV short_2pct,LinearTrend macro-exp NMAE,0.07270673280673112
+CrystalCV short_2pct,RidgeResidual macro-exp NMAE,0.05278797498270773
+CrystalCV short_2pct,MLPResidual macro-exp NMAE,0.046066456965480444
+CrystalCV short_2pct,GRUResidual macro-exp NMAE,0.04623388384558129
+CrystalCV short_2pct,TCPTResidual macro-exp NMAE,0.04835222627734728
+CrystalCV short_2pct,TCPT skill vs LastValue,0.11348369587806906
+CrystalCV short_2pct,TCPT experiment win-rate vs LastValue,0.9444444444444444
+CrystalCV medium_5pct,LastValue macro-exp NMAE,0.09489574786949938
+CrystalCV medium_5pct,TrainMean macro-exp NMAE,0.22141316088789897
+CrystalCV medium_5pct,LinearTrend macro-exp NMAE,0.14423730085914974
+CrystalCV medium_5pct,RidgeResidual macro-exp NMAE,0.08618032019798186
+CrystalCV medium_5pct,MLPResidual macro-exp NMAE,0.07773605467741813
+CrystalCV medium_5pct,GRUResidual macro-exp NMAE,0.0777147012544155
+CrystalCV medium_5pct,TCPTResidual macro-exp NMAE,0.07838063334052967
+CrystalCV medium_5pct,TCPT skill vs LastValue,0.17403429447314434
+CrystalCV medium_5pct,TCPT experiment win-rate vs LastValue,1.0
+CrystalCV long_10pct,LastValue macro-exp NMAE,0.1502785375772046
+CrystalCV long_10pct,TrainMean macro-exp NMAE,0.22334543554478248
+CrystalCV long_10pct,LinearTrend macro-exp NMAE,0.26838859598368675
+CrystalCV long_10pct,RidgeResidual macro-exp NMAE,0.13190155448147667
+CrystalCV long_10pct,MLPResidual macro-exp NMAE,0.12679765853867364
+CrystalCV long_10pct,GRUResidual macro-exp NMAE,0.12388525002005697
+CrystalCV long_10pct,TCPTResidual macro-exp NMAE,0.12778854282929683
+CrystalCV long_10pct,TCPT skill vs LastValue,0.14965540063466276
+CrystalCV long_10pct,TCPT experiment win-rate vs LastValue,0.8333333333333334
+CrystalCV very_long_20pct,LastValue macro-exp NMAE,0.2330951933462262
+CrystalCV very_long_20pct,TrainMean macro-exp NMAE,0.22832552455872068
+CrystalCV very_long_20pct,LinearTrend macro-exp NMAE,0.5287546802737021
+CrystalCV very_long_20pct,RidgeResidual macro-exp NMAE,0.1965146484042871
+CrystalCV very_long_20pct,MLPResidual macro-exp NMAE,0.20102462778381883
+CrystalCV very_long_20pct,GRUResidual macro-exp NMAE,0.19834560095794976
+CrystalCV very_long_20pct,TCPTResidual macro-exp NMAE,0.2027633511852338
+CrystalCV very_long_20pct,TCPT skill vs LastValue,0.1301264162746557
+CrystalCV very_long_20pct,TCPT experiment win-rate vs LastValue,0.8888888888888888

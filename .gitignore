@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+outputs/*
+!outputs/.gitkeep
+data/ord/*
+!data/ord/README.md
+checkpoints/
